@@ -1,6 +1,6 @@
 package base
 
-import "an7one.com/eg_go_cncr_prog_in_prac_2e/src/util/log/field"
+import "github.com/an7one/eg_go_cncr_prog_in_prac_2e/src/util/log/field"
 
 // Option option(s) of the logger
 type Option interface {

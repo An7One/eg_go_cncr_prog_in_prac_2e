@@ -1,7 +1,7 @@
 package logrus
 
 import (
-	"an7one.com/eg_go_cncr_prog_in_prac_2e/src/util/log/base"
+	"github.com/an7one/eg_go_cncr_prog_in_prac_2e/src/util/log/base"
 
 	"github.com/Sirupsen/logrus"
 )
